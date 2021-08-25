@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://github.com/Cyber-Hackz/Cyber-Hackz/img/text.gif)
+![Alt Text](https://github.com/Cyber-Hackz/Cyber-Hackz/tree/main/img/text.gif)
 <!--
 **Cyber-Hackz/Cyber-Hackz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
