@@ -14,7 +14,6 @@ _About me_
 
 - Studing Computer and Communication Engineering.
 
-- [Cyber Hackz](https://www.youtube.com/channel/UCIPGbWiJDYtvqWpSkeSPUDQ) is my youtube channel
 
 
 <!--
