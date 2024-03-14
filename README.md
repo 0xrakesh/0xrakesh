@@ -1,18 +1,12 @@
-### Vanakkam Nanba 👋
+### Hello guys 👋
 
 ![Rakeh Kumar](https://github.com/Cyber-Hackz/Cyber-Hackz/blob/main/img/text.gif)
 
-### Welcome H4ck3rs
 
 _About me_
-
-- I am Rakesh Kumar.
-
-- Member of [TamilCTF](https://twitter.com/tamilctf)
-
-- Interested in Reverse Engineering.
-
-- Studing Computer and Communication Engineering.
+- 🌱 I’m currently learning about blockchain and dApp.
+- 💬 Ask me about backend ( nodejs, mongodb )
+- 📫 How to reach me: [0xrakesh](https://www.instagram.com/0xrakesh)
 
 
 
